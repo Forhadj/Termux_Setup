@@ -6,6 +6,7 @@
 ## ⚙️ Overview
 
 **FORHAD Termux Setup Tool** 
+```
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
@@ -18,12 +19,3 @@ git clone https://github.com/Forhadj/Termux_Setup.git
 cd Termux_Setup
 chmod +x Forhad.py
 python Forhad.py
-
-
----
-
-📌 Author & Support
-
-Author: Md Forhad
-GitHub: https://github.com/Forhadj
-Telegram: @f_forhad
